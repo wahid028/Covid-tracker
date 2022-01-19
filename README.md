@@ -1,4 +1,4 @@
-#  In order to run this code run npm install first and then run npm start
+##  In order to run this code, first run npm install and then npm start
 
 # Getting Started with Create React App
 
